@@ -1,0 +1,82 @@
+
+.HomePageThird .card-header {
+    border: none; }
+.HomePageThird .container-fluid {
+    box-sizing: border-box;
+    padding: 0px 70px; }
+.HomePageThird .container-fluid .col-md-6 {
+    padding: 8px 24px;
+    margin-bottom: 5px; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable {
+    border-radius: 10px;
+    background-color: transparent; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0px 0px 25px 2px #cac8c8; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card .card-header {
+    display: flex;
+    justify-content: space-between;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card .card-header h6 {
+    font-weight: 600; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card .card-body {
+    padding: 0;
+    background-color: #F2F6F9;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card .card-body tr {
+    height: 50px; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card .card-body tr td {
+    border: none; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card .card-body tr td span {
+    margin-left: 20px; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card .card-body tr td span img {
+    margin-top: -5px;
+    width: 25px;
+    height: 25px; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card .card-body tr td .mainTableCur {
+    color: #36C654;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 25px; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card .card-body tr td .mainTableDate {
+    margin-left: 32%;
+    margin-top: 12px; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card .card-body tr td:nth-child(1) {
+    width: 5%; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card .card-body tr td:nth-child(2) {
+    width: 70%; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card .card-body tr:nth-child(2) {
+    background-color: #F2F6F9; }
+.HomePageThird .container-fluid .col-md-6 .mainCardTable .card:nth-child(2) {
+    margin-top: 20px; }
+.HomePageThird .container-fluid .col-md-6:nth-child(2) .ratingProgress {
+    background-color: white;
+    border-radius: 10px; }
+.HomePageThird .container-fluid .col-md-6:nth-child(2) .ratingProgress h6 {
+    padding-top: 18px;
+    padding-left: 15px;
+    color: #8D8787;
+    font-weight: 600; }
+.HomePageThird .container-fluid .col-md-6:nth-child(2) .ratingProgress .row {
+    margin: 0; }
+.HomePageThird .container-fluid .col-md-6:nth-child(2) .ratingProgress .row .col-md-4 .progressTitle {
+    color: #6A83DB;
+    margin-bottom: 0;
+    margin-top: 10px; }
+.HomePageThird .container-fluid .col-md-6:nth-child(2) .ratingProgress .row .col-md-4 .row {
+    color: #8D8787;
+    justify-content: space-between;
+    margin: 17px 0; }
+.HomePageThird .container-fluid .col-md-6:nth-child(2) .ratingProgress .row .col-md-4 .row p {
+    margin-bottom: 0;
+    margin-top: 8px;
+    font-size: 14px; }
+.HomePageThird .container-fluid .col-md-6:nth-child(2) .ratingProgress .row .col-md-4 .row .progress {
+    width: 73px;
+    height: 5px; }
+.HomePageThird .container-fluid .col-md-6:nth-child(2) .ratingProgress .row .col-md-4 .row .progress .progress-bar {
+    background-color: #6A83DB; }

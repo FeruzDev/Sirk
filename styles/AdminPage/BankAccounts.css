@@ -1,0 +1,113 @@
+
+
+
+
+
+ /*Bank accounts bilan Company Groups style bitta !!!*/
+
+
+
+
+
+
+
+
+
+.MainBankAccounts .headerTitle {
+    margin-top: 25px; }
+.MainBankAccounts .headerTitle .container-fluid .row .col-md-3:nth-child(1) {
+    padding-left: 65px; }
+.MainBankAccounts .headerTitle .container-fluid .row .col-md-3:nth-child(1) button {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    padding: 0;
+    background-color: #6A83DB;
+    border: none;
+    color: white;
+    font-size: 14px; }
+.MainBankAccounts .headerTitle .container-fluid .row .col-md-3:nth-child(1) button span {
+    position: absolute;
+    width: 19px;
+    z-index: 999;
+    left: 20px; }
+.MainBankAccounts .headerTitle .container-fluid .row .col-md-3:nth-child(1) button span img {
+    width: 100%; }
+.MainBankAccounts .headerTitle .container-fluid .row .col-md-2:nth-child(3) {
+    display: flex;
+    align-items: center; }
+.MainBankAccounts .headerTitle .container-fluid .row .col-md-2:nth-child(3) h6 {
+    font-size: 20px;
+    color: #666363;
+    margin: 0 auto; }
+.MainBankAccounts .headerTitle .container-fluid .row .col-md-4:nth-child(5) {
+    padding-left: 100px; }
+.MainBankAccounts .headerTitle .container-fluid .row .col-md-4:nth-child(5) button {
+    width: 270px;
+    height: 34px;
+    position: relative;
+    padding: 0;
+    background-color: #6A83DB;
+    border: none;
+    color: white;
+    font-size: 14px; }
+.MainBankAccounts .headerTitle .container-fluid .row .col-md-4:nth-child(5) button span {
+    position: absolute;
+    width: 19px;
+    z-index: 999;
+    left: 33px;
+    top: 6px; }
+.MainBankAccounts .headerTitle .container-fluid .row .col-md-4:nth-child(5) button span img {
+    width: 100%; }
+.MainBankAccounts .CompanyBalanceTable {
+    margin-top: 40px;
+    padding: 0 60px; }
+.MainBankAccounts .CompanyBalanceTable table {
+    background-color: #F2F6F9;
+    box-shadow: 0px 0px 25px 2px #cac8c8;
+    border-radius: 10px;
+    width: 98%; }
+.MainBankAccounts .CompanyBalanceTable table tr:nth-child(1) th {
+    font-size: 16px;
+    padding: 18px 12px; }
+.MainBankAccounts .CompanyBalanceTable table tr:nth-child(1) th:nth-child(1) {
+    padding-left: 26px; }
+.MainBankAccounts .CompanyBalanceTable table tr:nth-child(2n) {
+    background-color: white; }
+.MainBankAccounts .CompanyBalanceTable table tr {
+    font-size: 12px; }
+.MainBankAccounts .CompanyBalanceTable table tr .mainTableId {
+    padding-left: 26px;
+    color: #6A83DB; }
+.MainBankAccounts .CompanyBalanceTable table tr .mainTableButtons {
+    width: 300px;
+    text-align: end; }
+.MainBankAccounts .CompanyBalanceTable table tr .mainTableButtons .btnGroup .buttonClick {
+    padding: 4px 11.0px;
+    border-radius: 5px;
+    border: 1px solid #6A83DB;
+    color: #6A83DB;
+    margin-right: 5px;
+    width: 60px;
+    box-sizing: border-box; }
+.MainBankAccounts .CompanyBalanceTable table tr .mainTableButtons .btnGroup .buttonClick span {
+    margin-right: 3px; }
+.MainBankAccounts .CompanyBalanceTable table tr .mainTableButtons .btnGroup .buttonClick span img {
+    width: 10px;
+    margin-top: -1px; }
+.MainBankAccounts .CompanyBalanceTable table tr .mainTableButtons .btnGroup .buttonClick:nth-child(2) {
+    border: 1px solid #36C654;
+    color: #36C654;
+    padding: 4px 13.0px; }
+.MainBankAccounts .CompanyBalanceTable table tr .mainTableButtons .btnGroup .buttonClick:nth-child(2) span img {
+    width: 10px; }
+.MainBankAccounts .CompanyBalanceTable table tr .mainTableButtons .btnGroup .buttonClick:nth-child(3) {
+    border: 1px solid  #FF6060;
+    color: #FF6060;
+    padding: 4px 8.0px; }
+.MainBankAccounts .CompanyBalanceTable table tr .mainTableButtons .btnGroup .buttonClick:nth-child(3) span img {
+    width: 7px; }
+.MainBankAccounts .CompanyBalanceTable table tr .mainTableButtons .btnGroup .buttonClick:nth-child(4) {
+    border: 1px solid   #666363;
+    color: #666363;
+    padding: 4px 8.0px; }

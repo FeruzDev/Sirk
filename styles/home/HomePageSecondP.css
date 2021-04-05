@@ -1,0 +1,69 @@
+
+.HomePageSecond .card-header {
+    border: none; }
+.HomePageSecond .container-fluid {
+    box-sizing: border-box;
+    padding: 0px 70px; }
+.HomePageSecond .container-fluid .col-md-6 {
+    padding: 8px 24px;
+    margin-bottom: 5px; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable {
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 0px 25px 2px #cac8c8; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card {
+    border: none;
+    border-radius: 10px;
+    height: 100%; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card .card-header {
+    display: flex;
+    justify-content: space-between;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin-bottom: -20px; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card .card-header h6 {
+    font-weight: 600; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card .card-body {
+    padding: 0; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card .card-body .table {
+    margin-bottom: 0;
+    border-radius: 10px; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card .card-body .table tbody tr {
+    height: 50px; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card .card-body .table tbody tr td {
+    border: none; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card .card-body .table tbody tr td span {
+    margin-left: 10px; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card .card-body .table tbody tr td span img {
+    margin-top: 8px;
+    width: 25px;
+    height: 25px; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card .card-body .table tbody tr td .mainTableCur {
+    margin-top: 12px;
+    color: #36C654;
+    font-weight: 600;
+    font-size: 18px; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card .card-body .table tbody tr td .mainTableDate {
+    margin-left: 22%;
+    margin-top: 12px; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card .card-body .table tbody tr td:nth-child(1) {
+    width: 5%; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card .card-body .table tbody tr td:nth-child(2) {
+    width: 70%; }
+.HomePageSecond .container-fluid .col-md-6 .mainCardTable .card .card-body .table tbody tr:nth-child(2) {
+    background-color: #F2F6F9; }
+.HomePageSecond .container-fluid .col-md-6:nth-child(2) .mainCardTable {
+    box-shadow: 0px 0px 25px 2px #cac8c8; }
+.HomePageSecond .container-fluid .col-md-6:nth-child(2) .mainCardTable .card .card-body .table tbody tr td .mainTableCurrency {
+    margin-left: 10px;
+    margin-top: 12px;
+    font-weight: 600; }
+.HomePageSecond .container-fluid .col-md-6:nth-child(2) .mainCardTable .card .card-body .table tbody tr td:nth-child(1) {
+    width: 25%; }
+.HomePageSecond .container-fluid .col-md-6:nth-child(2) .mainCardTable .card .card-body .table tbody tr td:nth-child(2) {
+    width: 10%; }
+.HomePageSecond .container-fluid .col-md-6:nth-child(2) .mainCardTable .card .card-body .table tbody tr td:nth-child(3) {
+    width: 42%; }
+.HomePageSecond .container-fluid .col-md-6:nth-child(2) .mainCardTable .card .card-body .table tbody tr:nth-child(2) {
+    background-color: #F2F6F9;
+    border-right: 1px solid #F2F6F9; }

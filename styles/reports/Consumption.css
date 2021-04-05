@@ -1,0 +1,65 @@
+
+.MainConsumption .headerTitle {
+    margin-top: 25px; }
+.MainConsumption .headerTitle .container-fluid .row .col-md-3:nth-child(1) {
+    padding-left: 65px; }
+.MainConsumption .headerTitle .container-fluid .row .col-md-3:nth-child(1) button {
+    width: 170px;
+    height: 34px;
+    position: relative;
+    padding: 0;
+    background-color: #6A83DB;
+    border: none;
+    color: white;
+    font-size: 14px; }
+.MainConsumption .headerTitle .container-fluid .row .col-md-3:nth-child(1) button span {
+    position: absolute;
+    width: 19px;
+    z-index: 999;
+    left: 20px; }
+.MainConsumption .headerTitle .container-fluid .row .col-md-3:nth-child(1) button span img {
+    width: 100%; }
+.MainConsumption .headerTitle .container-fluid .row .col-md-2:nth-child(3) {
+    display: flex;
+    align-items: center; }
+.MainConsumption .headerTitle .container-fluid .row .col-md-2:nth-child(3) h6 {
+    font-size: 20px;
+    color: #666363;
+    margin: 0 auto; }
+.MainConsumption .headerTitle .container-fluid .row .col-md-3:nth-child(5) .mainCurrency {
+    margin-left: 23%; }
+.MainConsumption .headerTitle .container-fluid .row .col-md-3:nth-child(5) .mainCurrency button {
+    border-radius: 5px;
+    background-color: transparent;
+    color: #9B9696;
+    border: 1px solid transparent;
+    width: 60px;
+    height: 26px; }
+.MainConsumption .headerTitle .container-fluid .row .col-md-3:nth-child(5) .mainCurrency .mainCurrency button:active {
+    border: 1px solid #7D93E0;
+    color: #7D93E0;
+    background-color: transparent;
+    border-radius: 5px;
+    width: 60px;
+    height: 26px; }
+.MainConsumption .CompanyBalanceTable {
+    margin-top: 40px;
+    padding: 0 60px; }
+.MainConsumption .CompanyBalanceTable table {
+    background-color: #F2F6F9;
+    box-shadow: 0px 0px 25px 2px #cac8c8;
+    border-radius: 10px;
+    width: 98%; }
+.MainConsumption .CompanyBalanceTable table tr:nth-child(1) th {
+    font-size: 16px;
+    padding: 18px 12px; }
+.MainConsumption .CompanyBalanceTable table tr:nth-child(1) th:nth-child(1) {
+    padding-left: 26px; }
+.MainConsumption .CompanyBalanceTable table tr:nth-child(2n) {
+    background-color: white; }
+.MainConsumption .CompanyBalanceTable table tr .mainTableTitle {
+    padding-left: 26px; }
+.MainConsumption .CompanyBalanceTable table tr .mainTableAmount {
+    font-size: 18px;
+    color: #FF6060;
+    font-weight: 600; }

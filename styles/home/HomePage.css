@@ -1,0 +1,75 @@
+.HomePageFirst .container-fluid {
+    box-sizing: border-box;
+    padding: 15px 70px; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(1) {
+    padding: 8px 24px; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) {
+    padding: 8px 24px; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport {
+    height: 100%; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card {
+    border: none;
+    border-radius: 10px;
+    height: 100%;
+    box-shadow: 0px 0px 25px 2px #cac8c8; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-header {
+    display: flex;
+    justify-content: space-between;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-header h6 {
+    font-weight: 600;
+    color: #666363; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-header .mainCurrency button {
+    border-radius: 5px;
+    background-color: transparent;
+    color: #9B9696;
+    border: 1px solid transparent;
+    width: 60px;
+    height: 26px; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-header .mainCurrency button:active {
+    border: 1px solid #7D93E0;
+    color: #7D93E0;
+    background-color: transparent;
+    border-radius: 5px;
+    width: 60px;
+    height: 26px; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-body .row .col-md-3 {
+    height: 125px;
+    width: 125px;
+    padding: 0 7.5px;
+    margin-top: 35px; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-body .row .col-md-3 .box {
+    box-sizing: border-box;
+    background-color: #F2F6F9;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    border-radius: 5px;
+    margin-bottom: 40px; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-body .row .col-md-3 .box .boxMainTitle {
+    font-size: 12px;
+    padding-top: 16px;
+    padding-bottom: 10px;
+    font-weight: 600; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-body .row .col-md-3 .box span {
+    background-color: #F9FAFF;
+    padding: 10px;
+    border-radius: 50%; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-body .row .col-md-3 .box span img {
+    width: 20px;
+    height: 15px; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-body .row .col-md-3 .box .boxTitle {
+    padding-top: 22px;
+    color: #36C654;
+    font-size: 18px;
+    font-weight: 600; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-body .row .col-md-3 .progress {
+    height: 5px;
+    border-radius: 5px; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-body .row .col-md-3 .progress .progress-bar {
+    background-color: #36C654; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-body .row .col-md-3:nth-child(3) .box .boxTitle {
+    color: #FF6060; }
+.HomePageFirst .container-fluid .col-md-6:nth-child(2) .mainCardReport .card .card-body .row .col-md-3:nth-child(3) .progress .progress-bar {
+    background-color: #FF6060; }

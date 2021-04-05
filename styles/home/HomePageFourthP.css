@@ -1,0 +1,70 @@
+
+.HomePageFourth .card-header {
+    border: none; }
+.HomePageFourth .container-fluid {
+    box-sizing: border-box;
+    padding: 0px 70px; }
+.HomePageFourth .container-fluid .row .col-md-6 {
+    padding: 8px 24px;
+    margin-bottom: 5px; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable {
+    border-radius: 10px;
+    background-color: transparent; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card {
+    border: none;
+    border-radius: 10px;
+    background-color: transparent; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card .card-header {
+    box-shadow: 0px 0px 25px 2px #cac8c8;
+    padding: 0;
+    border-radius: 10px; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card .card-header table {
+    border: none;
+    margin-bottom: 0;
+    height: 53px;
+    align-items: center; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card .card-header table tr {
+    padding-left: 6%;
+    display: flex;
+    margin-top: 5px; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card .card-header table tr td {
+    height: 40px;
+    border: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    width: 25%;
+    color: #8D8787 !important;
+    font-weight: 500; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card .card-header table tr td P {
+    padding: 0;
+    margin: 0; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card .card-body {
+    margin-top: 10px;
+    padding: 0; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card .card-body table {
+    border-radius: 10px;
+    background-color: #F2F6F9;
+    box-shadow: 0px 5px 25px 2px #cac8c8; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card .card-body table tr {
+    padding-left: 6%;
+    display: flex; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card .card-body table tr td {
+    height: 40px;
+    border: none;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    width: 25%; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card .card-body table tr td P {
+    padding: 0;
+    margin: 0; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card .card-body table tr td .mainTableCur {
+    color: #36C654;
+    font-weight: 600;
+    font-size: 18px;
+    margin-left: 15%; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card .card-body table tr:nth-child(2n) {
+    background-color: white; }
+.HomePageFourth .container-fluid .row .col-md-6 .mainCardTable .card:nth-child(2) {
+    margin-top: 20px; }
